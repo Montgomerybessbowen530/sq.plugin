@@ -1,4 +1,3 @@
-# sq.plugin// 同步 ID: d5837cec @ Sun May 24 12:38:01 UTC 2026
 // 同步 ID: 7e007c26 @ Mon May 25 13:10:39 UTC 2026
 // 同步 ID: ee0e92bf @ Mon May 25 23:02:49 UTC 2026
 // 同步 ID: 3906a594 @ Wed May 27 13:39:14 UTC 2026
@@ -28,3 +27,4 @@
 // 同步 ID: 4031c7d3 @ Sun Jul 19 15:56:10 UTC 2026
 // 同步 ID: 12b3e496 @ Wed Jul 22 12:36:54 UTC 2026
 // 同步 ID: 0869687c @ Thu Jul 23 05:18:16 UTC 2026
+// 同步 ID: 475f784b @ Fri Jul 24 04:00:09 UTC 2026
